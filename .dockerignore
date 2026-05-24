@@ -1,0 +1,10 @@
+**/bin/
+**/obj/
+**/bin*/
+**/*\Debug*
+**/TestResults/
+**/coverage/
+**/.git/
+**/.vs/
+**/.idea/
+**/.vscode/
